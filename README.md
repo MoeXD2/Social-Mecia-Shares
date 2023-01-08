@@ -63,19 +63,19 @@ The performance of the models before and after feature selection is summarized i
 
 The scores for each model are as follows:
 
-Neural Network Regression:
+**Neural Network Regression**:
 
 o Mean Squared Error: 6.48
 o R2 Score: -0.05
 o Mean Absolute Error: 1.09
 
-XGBoost Regression:
+**XGBoost Regression**:
 
 o Mean Squared Error: 5.75
 o R2 Score: 0.07
 o Mean Absolute Error: 1.29
 
-RANSAC Regression:
+**RANSAC Regression**:
 
 o Mean Squared Error: 7.4
 o R2 Score: -0.2
