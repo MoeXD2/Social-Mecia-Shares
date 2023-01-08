@@ -4,7 +4,9 @@
 # Team Members
 
 Valerio Romano Cadura
+
 Muhammad Khair Hindawi
+
 Lorenzo Mainetti
 
 ---------------------------------------------------------------------------------------
