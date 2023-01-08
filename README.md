@@ -1,6 +1,13 @@
 # Social Media Shares Prediction
 ![Cool Figure](https://visme.co/blog/wp-content/uploads/2019/07/header-ok.png)
 
+# Team Members
+
+Valerio Romano Cadura
+Muhammad Khair Hindawi
+Lorenzo Mainetti
+
+---------------------------------------------------------------------------------------
 In this project, we were tasked with developing a tool to predict the number of shares on social media given the content and the supposed publication time. To achieve this, used three machine learning models: Neural Network Regression from Keras, XGBoost Regression, and RANSAC Regression. The choice was not casual we first analyse the dataset and understood it was heavily skewed, hence the right path was to choose models capable to adapt to non-linear relationships. We picked these models for the following characteristics:
 
 1. Neural network regression models, such as those implemented in Keras, are good for regression
